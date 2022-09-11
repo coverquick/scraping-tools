@@ -1,0 +1,7 @@
+playwright
+tqdm
+bs4
+selenium
+spacy
+sentence_transformers
+numpy
